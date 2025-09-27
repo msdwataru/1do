@@ -1,0 +1,49 @@
+【日本語】
+
+「1do」は、1日1つのタスクに集中することで、確実な達成感と習慣化を実現するシンプルな習慣管理アプリです。
+
+■ 主な特徴
+• 1日1つのタスク選択：複雑なタスク管理から解放され、本当に重要なことに集中
+• シンプルな完了記録：完了・未完了の記録で、毎日の進捗を可視化
+• カレンダー表示：過去の記録を一覧で確認し、継続のモチベーションを維持
+• 通知機能：朝と夜のリマインダーで、タスクを忘れずに実行
+• 美しいUI：ダークモード対応で、見やすく使いやすいインターフェース
+
+■ こんな方におすすめ
+• 複雑なタスク管理に疲れている方
+• 確実に習慣化したいことがある方
+• シンプルで効果的な方法を求めている方
+• 毎日の達成感を味わいたい方
+
+■ 使い方
+1. タスクを選択：今日取り組む1つのタスクを選ぶ
+2. 実行：選んだタスクに集中して取り組む
+3. 記録：完了または未完了を記録
+4. 振り返り：カレンダーで過去の記録を確認
+
+「1do」で、1日1つの確実な達成を積み重ね、理想の習慣を身につけましょう。
+
+【English】
+
+"1do" is a simple habit management app that helps you focus on one task per day, ensuring consistent achievement and habit formation.
+
+■ Key Features
+• One Task Per Day: Free yourself from complex task management and focus on what truly matters
+• Simple Completion Tracking: Record completion or non-completion to visualize daily progress
+• Calendar View: Review past records at a glance to maintain motivation for consistency
+• Notification System: Morning and evening reminders to ensure you never forget your task
+• Beautiful UI: Dark mode support with a clean, user-friendly interface
+
+■ Perfect For
+• Those tired of complex task management systems
+• People who want to build reliable habits
+• Those seeking simple and effective methods
+• Anyone who wants to feel accomplished every day
+
+■ How to Use
+1. Select a Task: Choose one task to focus on today
+2. Execute: Concentrate on your selected task
+3. Record: Mark it as completed or not completed
+4. Reflect: Review past records in the calendar view
+
+With "1do," build one reliable achievement per day and develop the habits you desire.
