@@ -318,7 +318,7 @@ export default function SettingsScreen() {
             </View>
           </View>
 
-          {/* アプリ設定 */}
+          {/* アプリ設定
           <View style={[styles.section, { backgroundColor: colors.surface, borderColor: colors.border }]}>
             <View style={styles.sectionHeader}>
               <View style={[styles.sectionIcon, { backgroundColor: colors.warning }]}>
@@ -343,7 +343,7 @@ export default function SettingsScreen() {
               </View>
               <IconSymbol name="chevron.right" size={20} color={colors.textSecondary} />
             </TouchableOpacity>
-          </View>
+          </View> */}
 
           {/* アプリ情報 */}
           <View style={[styles.infoSection, { backgroundColor: colors.surface, borderColor: colors.border }]}>
