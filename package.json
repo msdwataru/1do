@@ -2,13 +2,17 @@
   "name": "1do",
   "main": "expo-router/entry",
   "version": "1.0.0",
+  "homepage": "https://msdwataru.github.io/1do",
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "expo lint"
+    "lint": "expo lint",
+    "predeploy": "echo 'Preparing to deploy...'",
+    "deploy": "gh-pages -d docs",
+    "deploy:clean": "gh-pages -d docs --remove '*.{js,css,html}' --add"
   },
   "dependencies": {
     "@expo/metro-runtime": "~6.1.2",
@@ -50,6 +54,7 @@
     "react-native-worklets": "0.5.1"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "@babel/core": "^7.25.2",
     "@types/react": "~19.1.0",
     "eslint": "^9.25.0",
